@@ -3,7 +3,7 @@
 // ===============================
 
 const texts = [
-    "Mahasiswa Teknik Informatika",
+    "Teknik Informatika",
     "Frontend Developer",
     "Backend Developer",
     "Internet Of Things",
